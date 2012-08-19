@@ -1,0 +1,2 @@
+-e git+https://github.com/kmooney/django-hyperadmin.git#egg=django-hyperadmin
+
